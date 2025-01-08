@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lee Hui Zhen</h1>
 <h3 align="center">Computer Science (Bioinformatics) student</h3>
 
+- 🌍 I'm based in Johor, Malaysia.
+
+- 🏫 I study at UTM, Skudai.
+
 - 🌱 I’m currently learning **C++ Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeeHuiZhen](https://github.com/LeeHuiZhen)
